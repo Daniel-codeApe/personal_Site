@@ -1,14 +1,14 @@
 {
   "main": {
-    "name":"David Cyberlark",
-    "description":"Passionate about learning technology and sharing knowledge",
+    "name":"Daniel Liang",
+    "description":"Passionate about coding and learning technology",
     "image":"profile.jpg",
-    "bio":"My name is David, the founder of Cyberlark, a solutions architect and senior software developer that has interests in all things related to the Cloud. I graduated from the University of Wollongong with a Master of Computer Science degree in 2009. Since then, I live in a beautiful city called Brisbane on the East Coast of Australia. ",
+    "bio":"My name is Daniel, a student at QUT, currently an undergraduate for an IT bachelor's degree. Although I still don't have much experience in this industry, I'm working my way to becoming a competitive programmer, and willing to learn from others.",
     "contactmessage":"Thank you for your feedback.",
-    "email": "Dave@cyberlark.com.au",
-    "phone": "(04) 1234 5678",
-    "github":"https://github.com/CyberlarkCode",
-    "project":"https://github.com/CyberlarkCode",
+    "email": "liangdaniel688@gmail.com",
+    "phone": "(04) 5019 2363",
+    "github":"https://github.com/Daniel-codeApe",
+    "project":"https://github.com/Daniel-codeApe",
     "address":{
       "line1":"Address: 13 Main St",
       "line2":"City: Brisbane",
@@ -29,18 +29,13 @@
     "social":[
       {
         "name":"twitter",
-        "url":"https://twitter.com/daiwei920",
+        "url":"https://x.com/LiangDa9527",
         "className":"fa fa-twitter"
       },
       {
         "name":"github",
-        "url":"https://github.com/CyberlarkCode",
+        "url":"https://github.com/Daniel-codeApe",
         "className":"fa fa-github"
-      },
-      {
-        "name":"youtube-chinese",
-        "url":"https://www.youtube.com/channel/UCArZ1Su6EjdiEA0qrx1Pfqg",
-        "className":"fa fa-youtube-square"
       },
       {
         "name":"linkedin",
@@ -58,21 +53,21 @@
     "skillmessage":"Technical Skills",
     "education":[
       {
-        "school":"University of Wollongong",
-        "degree":"Master of Computer Science with distinction",
-        "graduated":"2007 - 2009",
+        "school":"Queensland University of Technology",
+        "degree":"bachelor of information technology",
+        "graduated":"2023 - now",
         "description":""
       },
       {
         "school":"AWS certification",
-        "degree":"AWS Certified Solutions Architect - Professional",
-        "graduated":"Dec 2021",
+        "degree":"AWS Certified Cloud Practitioner",
+        "graduated":"May 2023",
         "description":""
       }
     ],
     "work":[
       {
-        "company":"Cyberlark Studio",
+        "company":"Job Hunting",
         "title":"Founder",
         "years":"Augest 2005 - Present",
         "description":"Our website was founded in August 2005, originally named D&M Studio. "
@@ -80,20 +75,20 @@
     ],
     "skills":[
       {
-        "name":"Backend Development (Infrastructure, API, Database)",
-        "level":"95%"
+        "name":"Backend Development (SQL Database)",
+        "level":"50%"
       },
       {
-        "name":"Frontend Development (React, Angular)",
-        "level":"85%"
+        "name":"Frontend Development (React)",
+        "level":"55%"
       },
       {
-        "name":"Embeded Software development (C/C++)",
-        "level":"80%"
+        "name":"Common languages (C#/C++/Java/JavaScript/Python)",
+        "level":"60%"
       },
       {
         "name":"Leadership & Management",
-        "level":"75%"
+        "level":"50%"
       },
       {
         "name":"Passion & Eager to learn",
