@@ -2,7 +2,7 @@
   "main": {
     "name":"Daniel Liang",
     "description":"Passionate about coding and learning technology",
-    "image":"profile.jpg",
+    "image":"profile.png",
     "bio":"My name is Daniel, a student at QUT, currently an undergraduate for an IT bachelor's degree. Although I still don't have much experience in this industry, I'm working my way to becoming a competitive programmer, and willing to learn from others.",
     "contactmessage":"Thank you for your feedback.",
     "email": "liangdaniel688@gmail.com",
@@ -36,16 +36,6 @@
         "name":"github",
         "url":"https://github.com/Daniel-codeApe",
         "className":"fa fa-github"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com",
-        "className":"fa fa-linkedin-square"
-      },
-      {
-        "name":"toutiao",
-        "url":"https://www.ixigua.com/home/1521358670931997/",
-        "className":"fa fa-weibo"
       }
     ]
   },
@@ -83,7 +73,7 @@
         "level":"55%"
       },
       {
-        "name":"Common languages (C#/C++/Java/JavaScript/Python)",
+        "name":"Common languages (C#/Java/JavaScript/Python)",
         "level":"60%"
       },
       {
@@ -99,46 +89,25 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Course",
-        "description": "如何在澳洲找IT工作",
-        "category": "Course",
+        "title":"Blog",
+        "description": "a React website",
+        "category": "Frontend project",
         "image":"00.png",
-        "url":"https://course.cyberlark.com.au/courses/it"
+        "url":"https://youtu.be/7CYi_wW_iP0"
       },
       {
-        "title":"Project",
-        "description": "Investment Property Calculator",
-        "category": "Project",
-        "image":"04.png",
-        "url":"https://property.cyberlark.com.au/"
-      },
-      {
-        "title":"Video",
-        "description": "How to use Investment Property Calculator",
-        "category": "Video",
+        "title":"Time Tracking App",
+        "description": "A Java App to make plans and allocate your time",
+        "category": "Application",
         "image":"01.png",
-        "url":"https://www.youtube.com/watch?v=W5I-eij2q6E"
+        "url":"https://youtu.be/GyHo2YwKf9A"
       },
       {
-        "title":"Video",
-        "description":"How I passed the AWS Solutions Architect Professional Certification Exam",
-        "category":"Video",
+        "title":"Hungry Snack",
+        "description": "A simple game made by python",
+        "category": "Game",
         "image":"02.png",
-        "url":"https://www.youtube.com/watch?v=qftrfxGou_E"
-      },
-      {
-        "title":"Video",
-        "description":"Amazon Interview Experience | All things you need to prepare amazon interview",
-        "category": "Video",
-        "image":"03.png",
-        "url":"https://www.youtube.com/watch?v=kg2sJgO3Esc"
-      },
-      {
-        "title":"Video",
-        "description": "如何使用澳洲房产投资计算器",
-        "category": "Video",
-        "image":"01-chinese.png",
-        "url":"https://www.youtube.com/watch?v=03WayI5czhY"
+        "url":"https://youtu.be/QNb0eB9pUkA"
       }
     ]
   }
