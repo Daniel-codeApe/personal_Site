@@ -23,8 +23,17 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      - name: Install
+      - name: Install npm
         run: npm install --legacy-peer-deps
+
+      - name: Install fnm
+        run: winget install Schniz.fnm
+
+      - name: Set environment
+        run: fnm env --use-on-cd | Out-String | Invoke-Expression
+        
+      - name: Install nodejs v16  
+        run: fnm use --install-if-missing 16
 
       - name: Build
         run: npm run build
