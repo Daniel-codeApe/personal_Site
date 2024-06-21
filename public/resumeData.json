@@ -10,21 +10,10 @@
     "github":"https://github.com/Daniel-codeApe",
     "project":"https://github.com/Daniel-codeApe",
     "address":{
-      "line1":"Address: 13 Main St",
+      "line1":"Address: 581 Moggill Road, Indooroorpilly",
       "line2":"City: Brisbane",
       "line3":"Country: Australia"
     },
-    "youtube":{
-      "english": {
-        "name": "David on Cloud",
-        "url": "https://www.youtube.com/channel/UCykMC_fzatQPcbun0VYG3YA"
-      },
-      "chinese": {
-        "name": "澳洲程序员大卫",
-        "url":"https://www.youtube.com/@aus-david"
-      }
-    },
-    "website": "http://cyberlark.com.au",
     "resumedownload":"./images/resume.pdf",
     "social":[
       {
@@ -45,7 +34,7 @@
       {
         "school":"Queensland University of Technology",
         "degree":"bachelor of information technology",
-        "graduated":"2023 - now",
+        "graduated":"2023 - 2025",
         "description":""
       },
       {
@@ -55,30 +44,22 @@
         "description":""
       }
     ],
-    "work":[
-      {
-        "company":"Job Hunting",
-        "title":"Founder",
-        "years":"Augest 2005 - Present",
-        "description":"Our website was founded in August 2005, originally named D&M Studio. "
-      }
-    ],
     "skills":[
       {
-        "name":"Backend Development (SQL Database)",
-        "level":"50%"
-      },
-      {
-        "name":"Frontend Development (React)",
-        "level":"55%"
-      },
-      {
-        "name":"Common languages (C#/Java/JavaScript/Python)",
+        "name":"Website Development (React, Express, JavaScript)",
         "level":"60%"
       },
       {
-        "name":"Leadership & Management",
+        "name":"Software Development (Java/Python)",
         "level":"50%"
+      },
+      {
+        "name":"Work in teams",
+        "level":"70%"
+      },
+      {
+        "name": "Adapt in AGILE methodologies",
+        "level": "70%"
       },
       {
         "name":"Passion & Eager to learn",
@@ -91,7 +72,7 @@
       {
         "title":"Blog",
         "description": "a React website",
-        "category": "Frontend project",
+        "category": "Full-stack project",
         "image":"00.png",
         "url":"https://youtu.be/7CYi_wW_iP0"
       },
